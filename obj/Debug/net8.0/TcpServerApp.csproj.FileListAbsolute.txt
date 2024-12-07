@@ -1,0 +1,14 @@
+c:\Projects\VS Code\TcpServerApp\bin\Debug\net8.0\TcpServerApp.exe
+c:\Projects\VS Code\TcpServerApp\bin\Debug\net8.0\TcpServerApp.deps.json
+c:\Projects\VS Code\TcpServerApp\bin\Debug\net8.0\TcpServerApp.runtimeconfig.json
+c:\Projects\VS Code\TcpServerApp\bin\Debug\net8.0\TcpServerApp.dll
+c:\Projects\VS Code\TcpServerApp\bin\Debug\net8.0\TcpServerApp.pdb
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.AssemblyInfoInputs.cache
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.AssemblyInfo.cs
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.csproj.CoreCompileInputs.cache
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.dll
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\refint\TcpServerApp.dll
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.pdb
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\TcpServerApp.genruntimeconfig.cache
+c:\Projects\VS Code\TcpServerApp\obj\Debug\net8.0\ref\TcpServerApp.dll
